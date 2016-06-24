@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsSplitTheBill.iOS", "iOS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsSplitTheBill", "LetsSplitTheBill\LetsSplitTheBill.csproj", "{1F1CC5FA-4D28-4E4F-9478-61E4EA0B4F42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsSplitTheBill.Tests", "LetsSplitTheBill.Tests\LetsSplitTheBill.Tests.csproj", "{BE5C8305-29AE-42D9-B019-CE7171BA7902}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{1F1CC5FA-4D28-4E4F-9478-61E4EA0B4F42}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{1F1CC5FA-4D28-4E4F-9478-61E4EA0B4F42}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{1F1CC5FA-4D28-4E4F-9478-61E4EA0B4F42}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Release|iPhone.Build.0 = Release|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{BE5C8305-29AE-42D9-B019-CE7171BA7902}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

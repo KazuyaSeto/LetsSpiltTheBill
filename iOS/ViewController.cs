@@ -22,6 +22,7 @@ namespace LetsSplitTheBill.iOS
 			{
 				var title = string.Format("{0} clicks!", count++);
 				Button.SetTitle(title, UIControlState.Normal);
+				//MyClass.print();
 			};
 		}
 
